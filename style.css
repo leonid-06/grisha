@@ -20,6 +20,7 @@ body{
     font-family: "Roboto";
     background: #F5BE85;
     color: black;
+    max-width: 1518px;
 }
 
 .wraper{
